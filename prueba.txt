@@ -1,1 +1,9 @@
-Eric
+git commit: hacer commit es = a guadar archivo pero en git
+git commit -m "": el titulo para guardar el commit
+git log: historial de gits
+git config user.name: si ponemos comillas después de esto cambiamos el nombre, si no hay nos muestra el nombre que esta puesto.
+git config user.email i ponemos comillas después de esto cambiamos el mail, si no hay nos muestra el mail que hay puesto.
+hash: es el nombre del commit, suele ser nombres de caracteres muy largos: ej: 53455jh63kk5hhj6j5j24gg56yj
+git checkout "hash": para navegar de commit en commit hsta llegar a la versión deseada(para ver commits git log)
+git status: ver como esta el commit en ese momento(para saber si hace falta hacer git add, etc.)
+git topotamadre: cállate bicho
